@@ -13,7 +13,7 @@ source $controlfolder/control.txt
 get_controls
 
 # Variables
-GAMEDIR=/$directory/ports/tunic
+GAMEDIR="/$directory/windows/tunic"
 
 # CD and set permissions
 cd $GAMEDIR
